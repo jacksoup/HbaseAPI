@@ -12,7 +12,8 @@ import java.util.Set;
 /**
  * Created by caesar.zhu on 15-11-4.
  */
-@HbaseDocument(table = "my-table-user")
+//定义表名和列簇名（目前只支持单个表对应一个列簇）
+@HbaseDocument(table = "my-table-user",family = "col_0")
 public class UserModel {
     @HbaseRowKey
     @HbaseField
