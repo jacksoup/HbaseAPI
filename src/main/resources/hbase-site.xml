@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="configuration.xsl"?>
+<configuration>
+     <property>
+          <name>hbase.zookeeper.quorum</name>
+         <!--<value>master1,master2,slave1,slave2,slave3</value>-->
+         <value>namenode1,namenode2,datanode1,datanode2,datanode3</value>
+     </property>
+</configuration>
