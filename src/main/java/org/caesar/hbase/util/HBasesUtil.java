@@ -10,7 +10,7 @@ import org.apache.hadoop.hbase.client.ConnectionFactory;
 import java.io.IOException;
 
 /**
- * Created by zhuxiaowei on 2016/11/24.
+ * Created by caesar.zhu on 2016/11/24.
  */
 public class HBasesUtil {
     private static Configuration config = null;

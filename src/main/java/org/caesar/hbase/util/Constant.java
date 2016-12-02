@@ -1,7 +1,7 @@
 package org.caesar.hbase.util;
 
 /**
- * Created by zhuxiaowei on 2016/11/25.
+ * Created by caesar.zhu on 2016/11/25.
  */
 public class Constant {
     public static final String COLLECTION_SPLIT_CH = "\u0001";
