@@ -6,7 +6,7 @@
     <artifactId>hbase</artifactId>
     <version>1.0-SNAPSHOT</version>
     <modelVersion>4.0.0</modelVersion>
-    <name>enhance hbase</name>
+    <name>enhance hbase API</name>
 
     <properties>
         <hbase.version>1.0.1.1</hbase.version>
